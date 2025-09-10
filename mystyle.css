@@ -6,3 +6,10 @@
 body {
     background-color: rgb(117, 191, 237); 
 }
+.banner{
+    background-image: url(/resources/banner_background.png);
+    text-align: center;
+    padding: 1px;
+    margin-top: 0px;
+
+}
