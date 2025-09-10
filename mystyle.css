@@ -16,5 +16,6 @@ body {
 h1 {
     font-family: Peralta;
     font-size: 35px;
-
+    color: rgb(65, 71, 244);
+    -webkit-text-stroke: 0.0001px black;
 }
