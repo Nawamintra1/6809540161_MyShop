@@ -9,7 +9,6 @@ body {
 .banner{
     display: flex;
     background-image: url(resources/banner_background.png);
-    text-align: left;
     padding: 1px;
     margin-top: 0px;
     border: 2px solid;
@@ -18,10 +17,20 @@ h1 {
     font-family: Peralta;
     font-size: 35px;
     color: rgb(65, 71, 244);
-    padding-left: 30px;
+    padding-left: 60px;
+    margin-right: 500px;
     -webkit-text-stroke: 0.0001px black;
 }
 .nav_banner {
     display: flex;
     justify-content: space-between;
+
+}
+.Menu {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+.Menu li {
+    margin: 0 1rem ;
 }
