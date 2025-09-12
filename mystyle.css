@@ -141,6 +141,7 @@ h1 {
     background-color: aliceblue;
     height: 50px;
     margin-top: 70px;
+    border-top: rgb(122, 88, 63) solid 7px;
 }
 .RawReadyCollection_text {
     font-family: Outfit;
