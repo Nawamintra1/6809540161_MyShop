@@ -133,3 +133,14 @@ p {
      font-weight: bold;
      text-align: center;
 }
+
+.Product_Title {
+    display: flex;
+    background-color: rgb(59, 39, 25);
+    width: 250px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    border: #ffafee dashed 3px;
+}
