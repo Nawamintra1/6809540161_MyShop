@@ -128,16 +128,19 @@ h1 {
     padding: 5px;
     margin-top: 40px;
 }
-p {
+#footer_text {
     font-family: Outfit;
     font-weight: bold;
     text-align: center;
 }
 
-.RawProductCollection_banner {
+.RawReadyCollection_banner {
+    display: flex;
     align-items: center;
     background-color: aliceblue;
     height: 50px;
     margin-top: 70px;
-
+}
+#RawReadyCollection_text {
+    text-align: center;
 }
