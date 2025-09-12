@@ -162,7 +162,14 @@ h1 {
     margin-bottom: 10px;
 }
 #GrungeStarDenim {
-     border:2px solid #070101;
+    border:2px solid #070101;
+    width: 400px;
+    height: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#RockStarDenim {
+    border:2px solid #070101;
     width: 400px;
     height: 400px;
     margin-top: 10px;
