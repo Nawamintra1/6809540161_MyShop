@@ -50,3 +50,12 @@ h1 {
     display: flex;
     border-top: 20px rgb(59, 39, 25) solid;
 }
+.welcome_text {
+    color: rgb(255, 175, 232);
+    -webkit-text-stroke: 0.0001px black;
+    font-family: Galindo;
+    font-weight: bolder;
+    font-size: 60px;
+    margin-top: 220px;
+    padding-left: 100px;
+}
