@@ -75,12 +75,20 @@ h1 {
     color: blue;
     font-family: Outfit;
     font-size: 22px;
+    font-weight: bold;
     text-align: center;
     margin-top: 40px;
 }
 .info_text2 {
     font-family: Outfit;
     font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+.info_text3 {
+    color: blue;
+    font-family: Outfit;
+    font-size: 22px;
     text-align: center;
     margin-top: 20px;
 }
