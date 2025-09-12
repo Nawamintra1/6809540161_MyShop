@@ -7,6 +7,7 @@ body {
     background-color: rgb(117, 191, 237); 
 }
 .banner{
+    display: flex;
     background-image: url(resources/banner_background.png);
     text-align: left;
     padding: 1px;
@@ -19,4 +20,8 @@ h1 {
     color: rgb(65, 71, 244);
     padding-left: 30px;
     -webkit-text-stroke: 0.0001px black;
+}
+.nav_banner {
+    display: flex;
+    justify-content: space-between;
 }
