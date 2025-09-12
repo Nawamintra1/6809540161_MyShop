@@ -49,6 +49,7 @@ h1 {
     height: 800px;
     display: flex;
     border-top: 20px rgb(59, 39, 25) solid;
+    border-bottom: 20px rgb(59, 39, 25) solid;
 }
 .welcome_text {
     color: rgb(255, 175, 232);
