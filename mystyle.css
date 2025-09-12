@@ -18,7 +18,7 @@ h1 {
     font-size: 35px;
     color: rgb(65, 71, 244);
     padding-left: 60px;
-    margin-right: 500px;
+    margin-right: 450px;
     -webkit-text-stroke: 0.0001px black;
 }
 .nav_banner {
@@ -30,7 +30,15 @@ h1 {
     display: flex;
     list-style: none;
     align-items: center;
+    font-family: Outfit;
+    font-size: 20px;
+
 }
 .Menu li {
     margin: 0 1rem ;
+}
+.Menu li a {
+    color: black;
+    font-weight: bold
+    ;
 }
