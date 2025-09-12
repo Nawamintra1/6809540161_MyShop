@@ -148,3 +148,9 @@ h1 {
     text-align: center;
     font-weight: bold;
 }
+.productbox1{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    text-align: center;
+}
