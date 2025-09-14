@@ -267,3 +267,11 @@ h1 {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+.NewArrival_banner {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: rgb(250, 255, 180);
+    height: 50px;
+    margin-top: 70px;
+}
