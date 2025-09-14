@@ -133,21 +133,6 @@ h1 {
     font-weight: bold;
     text-align: center;
 }
-.SoY2KCollection_banner {
-    justify-content: center;
-    display: flex;
-    align-items: center;
-    background-color: aliceblue;
-    height: 50px;
-    margin-top: 70px;
-    border-top: rgb(122, 88, 63) solid 7px;
-}
-.SoY2KCollection_text {
-    font-family: Outfit;
-    font-size: 25px;
-    text-align: center;
-    font-weight: bold;
-}
 
 .RawReadyCollection_banner {
     justify-content: center;
@@ -198,11 +183,31 @@ h1 {
     margin-top: 10px;
     margin-bottom: 10px;
 }
-
-
+.SoY2KCollection_banner {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: aliceblue;
+    height: 50px;
+    margin-top: 70px;
+    border-top: rgb(122, 88, 63) solid 7px;
+}
+.SoY2KCollection_text {
+    font-family: Outfit;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
 .productbox2{
     display: flex;
     gap: 15px;
     justify-content: center;
     text-align: center;
+}
+#ChocolateBrownie {
+    border:2px solid #070101;
+    width: 400px;
+    height: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
