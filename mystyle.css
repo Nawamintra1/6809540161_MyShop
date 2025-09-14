@@ -133,7 +133,15 @@ h1 {
     font-weight: bold;
     text-align: center;
 }
-
+.SoY2KCollection_banner {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: aliceblue;
+    height: 50px;
+    margin-top: 70px;
+    border-top: rgb(122, 88, 63) solid 7px;
+}
 .RawReadyCollection_banner {
     justify-content: center;
     display: flex;
@@ -183,6 +191,8 @@ h1 {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+
 .productbox2{
     display: flex;
     gap: 15px;
