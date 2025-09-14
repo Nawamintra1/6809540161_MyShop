@@ -272,6 +272,8 @@ h1 {
     display: flex;
     align-items: center;
     margin-top: 70px;
+    background-color: rgb(247, 255, 218);
+    height: 50px;
     color: rgb(0, 0, 0);
 }
 .NewArrival_text {
@@ -280,4 +282,17 @@ h1 {
     text-align: center;
     font-weight: bold;
     font-style: italic;
+}
+.NewArrivalbox {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    text-align: center;
+}
+#LaceBlooming {
+    border:2px solid #fffdfd;
+    width: 400px;
+    height: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
