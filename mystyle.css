@@ -272,6 +272,9 @@ h1 {
     display: flex;
     align-items: center;
     margin-top: 70px;
+    color: rgb(251, 255, 206);
+    -webkit-text-stroke: 0.0001px black;
+
 }
 .NewArrival_text {
     font-family: Outfit;
