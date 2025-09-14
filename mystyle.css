@@ -225,3 +225,12 @@ h1 {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+.StrawberryGarden_banner {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: aliceblue;
+    height: 50px;
+    margin-top: 70px;
+    border-top: rgb(122, 88, 63) solid 7px;
+}
