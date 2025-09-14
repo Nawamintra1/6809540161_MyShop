@@ -275,3 +275,10 @@ h1 {
     height: 50px;
     margin-top: 70px;
 }
+.NewArrival_text {
+    font-family: Outfit;
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
